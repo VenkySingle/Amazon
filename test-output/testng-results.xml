@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72045" started-at="2023-06-23T02:44:59Z" finished-at="2023-06-23T02:46:11Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="72045" started-at="2023-06-23T02:44:59Z" finished-at="2023-06-23T02:46:11Z">
+      <class name="com.runner.cucumberrun.Tc1">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="setUpClass" is-config="true" duration-ms="330" started-at="2023-06-23T08:14:59Z" finished-at="2023-06-23T08:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" duration-ms="9680" started-at="2023-06-23T08:15:00Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-23T08:15:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigation of Mobile Link is successful"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Buy Latest Top Deal Headset in Amazon]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" duration-ms="8488" started-at="2023-06-23T08:15:09Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-23T08:15:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation Menu Display after clicking Mobile Hyperlink"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Buy Latest Top Deal Headset in Amazon]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" duration-ms="9644" started-at="2023-06-23T08:15:18Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-23T08:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Accessory Menu Click Validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Buy Latest Top Deal Headset in Amazon]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" duration-ms="12568" started-at="2023-06-23T08:15:27Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-23T08:15:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Headset Menu Click Validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Buy Latest Top Deal Headset in Amazon]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" duration-ms="14923" started-at="2023-06-23T08:15:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-23T08:15:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Top Deal Headset is selected"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Buy Latest Top Deal Headset in Amazon]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="runScenario" duration-ms="16319" started-at="2023-06-23T08:15:55Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-23T08:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Top Deal Headset is added to the cart"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Buy Latest Top Deal Headset in Amazon]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.runner.cucumberrun.Tc1@7791a895]" name="tearDownClass" is-config="true" duration-ms="47" started-at="2023-06-23T08:16:11Z" finished-at="2023-06-23T08:16:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.runner.cucumberrun.Tc1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
